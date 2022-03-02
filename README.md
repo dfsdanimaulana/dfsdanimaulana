@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dani Maulana</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfsdanimaulana)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dfsdanimaulana&label=Profile%20views&color=0e75b6&style=flat" alt="dfsdanimaulana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dfsdanimaulana" alt="dfsdanimaulana" /></a> </p>
