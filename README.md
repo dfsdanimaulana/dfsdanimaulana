@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dfsdanimaulana&label=Profile%20views&color=0e75b6&style=flat" alt="dfsdanimaulana" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dfsdanimaulana" alt="dfsdanimaulana" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dfsdanimaulana&theme=onedark" alt="dfsdanimaulana" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dnm17_" target="blank"><img src="https://img.shields.io/twitter/follow/dnm17_?logo=twitter&style=for-the-badge" alt="dnm17_" /></a> </p>
 
