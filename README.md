@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dani Maulana</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A Juniar Web developer from Indonesia</h3>
+
+<p align="left">
+  <a href="https://twitter.com/dnm17_" target="blank"><img src="https://img.shields.io/twitter/follow/dnm17_?logo=twitter&style=for-the-badge" alt="dnm17_" /></a>
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dfsdanimaulana&label=Profile%20views&color=0e75b6&style=flat" alt="dfsdanimaulana" />
@@ -22,17 +26,15 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dfsdanimaulana&theme=cobalt" alt="dfsdanimaulana" />
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/dnm17_" target="blank"><img src="https://img.shields.io/twitter/follow/dnm17_?logo=twitter&style=for-the-badge" alt="dnm17_" /></a>
-</p>
+<hr />
 
 - 🔭 I’m currently working on [Natours CSS and SASS project](https://github.com/dfsdanimaulana/natours)
 
 - 🌱 I’m currently learning [Advance CSS and SASS by Udemy](https://www.udemy.com/share/101Wkw3@SRO3zu0JNNEx2-CBtL82hXQWskUxqW3qzn02QSJ6Z2fG3G826mWWahKXAOMS2ZErSg==/)
 
-- 💬 Ask me about **Web Development**
-
 - 📫 How to reach me **danimaulana@gmail.com**
+
+<hr />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
