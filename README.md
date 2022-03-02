@@ -25,13 +25,10 @@
 <p align="left">
   <a href="https://twitter.com/dnm17_" target="blank"><img src="https://img.shields.io/twitter/follow/dnm17_?logo=twitter&style=for-the-badge" alt="dnm17_" /></a>
 </p>
-<p align="left">
-  <a href="https://instagram.com/dnm17_" target="blank"><img src="https://img.shields.io/instagram/follow/dnm17_?logo=instagram&style=for-the-badge" alt="dnm17_" /></a>
-</p>
 
 - 🔭 I’m currently working on [Natours CSS and SASS project](https://github.com/dfsdanimaulana/natours)
 
-- 🌱 I’m currently learning **Advance CSS and SASS**
+- 🌱 I’m currently learning [Advance CSS and SASS**](https://www.udemy.com/share/101Wkw3@SRO3zu0JNNEx2-CBtL82hXQWskUxqW3qzn02QSJ6Z2fG3G826mWWahKXAOMS2ZErSg==/)
 
 - 💬 Ask me about **Web Development**
 
