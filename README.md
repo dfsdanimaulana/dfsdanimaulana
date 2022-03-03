@@ -1,5 +1,5 @@
 
-![Dani Maulana's card name](https://cardivo.vercel.app/api?name=Dani%20Maulana&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2023%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://github.com/dfsdanimaulana.png?v=4&backgroundColor=%233463c2&instagram=dnm17_&linkedin=Dani%20Maulana&github=dfsdanimaulana&twitter=dnm17_&pattern=topography&colorPattern=%2334aeeb&fontColor=%23ffffff)
+![Dani Maulana's card name](https://cardivo.vercel.app/api?name=Dani%20Maulana&description=Hi,%20i%27m%20a%20web%20developer%20and%20i%27m%2023%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://github.com/dfsdanimaulana.png?v=4&backgroundColor=%233463c2&instagram=dnm17_&linkedin=Dani%20Maulana&github=dfsdanimaulana&twitter=dnm17_&pattern=topography&colorPattern=%2334aeeb&fontColor=%23ffffff)
 
 <p align="left">
   <a href="https://twitter.com/dnm17_" target="blank"><img src="https://img.shields.io/twitter/follow/dnm17_?logo=twitter&style=for-the-badge" alt="dnm17_" /></a>
