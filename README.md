@@ -28,7 +28,7 @@
 
 <hr />
 
-- 🔭 I’m currently working on [Natours CSS and SASS project](https://github.com/dfsdanimaulana/natours)
+- 🔭 I’m currently working on [Website Portfolio using Bootstrap and SCSS](https://github.com/dfsdanimaulana/portfolio)
 
 - 🌱 I’m currently learning [Advance CSS and SASS by Udemy](https://www.udemy.com/share/101Wkw3@SRO3zu0JNNEx2-CBtL82hXQWskUxqW3qzn02QSJ6Z2fG3G826mWWahKXAOMS2ZErSg==/)
 
