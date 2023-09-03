@@ -25,10 +25,6 @@
 
 <hr />
 
-- 🔭 I’m currently working on [danapp-next-level](https://github.com/dfsdanimaulana/danapp-next-level-ui)
-
-- 🌱 I’m currently learning [React and  material ui library](https://www.mui.com)
-
 - 📫 How to reach me **danimaulana@gmail.com**
 
 <hr />
