@@ -10,11 +10,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dfsdanimaulana&theme=onedark" alt="dfsdanimaulana" /></a>
 </p>
 
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dfsdanimaulana&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="dfsdanimaulana" />
-</p>
-
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dfsdanimaulana&show_icons=true&locale=en&theme=cobalt" alt="dfsdanimaulana" />
 </p>
